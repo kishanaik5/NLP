@@ -38,11 +38,11 @@ Talulah Riley (m. 2010; div. 2012)
 7. Write a program to demonstrate Morphological Analysis and Perform Lemmatization based on the Parts of Speech on the given text.
 8. Write a program to analyze the different types of Stemmers and Lemmatizer
 9. Create a collection of 3 documents. Write a program to find the frequency of bi-grams in this collection. Find the number of bi-grams that occur and display the top 5 most common.
-10.Write a program to decide whether a given string belongs to the language of grammar or not using Cocke-Younger-Kasami Algorithm.
-11.Write a program to implement the minimum edit distance for converting source string to the target string following the dynamic programming approach given the cost of insertion as 1, cost of deletion as 1 and cost of substation as 1.
+<br /> 10.Write a program to decide whether a given string belongs to the language of grammar or not using Cocke-Younger-Kasami Algorithm.
+<br /> 11.Write a program to implement the minimum edit distance for converting source string to the target string following the dynamic programming approach given the cost of insertion as 1, cost of deletion as 1 and cost of substation as 1.
 Input: i) A source string ii) A target string
 Eg: Source String =” intention”, “Piece” ii) Target String=” execution”, “Peace”
-12.Write a program identify nouns and adjectives from the given sentence and calculates the overall sentiment score of the extracted adjectives using Chunking in natural language processing (NLP)
-13.Write a program to conduct the case study on sentiment analysis using Natural language processing. Use a vaccination_tweets .csv data set 
-14.Write a program to conduct the case study on SMS Spam Detection Analysis
+<br /> 12.Write a program identify nouns and adjectives from the given sentence and calculates the overall sentiment score of the extracted adjectives using Chunking in natural language processing (NLP)
+<br /> 13.Write a program to conduct the case study on sentiment analysis using Natural language processing. Use a vaccination_tweets .csv data set 
+<br /> 14.Write a program to conduct the case study on SMS Spam Detection Analysis
    using Natural language processing. Use an spam.csv data set

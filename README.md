@@ -1,25 +1,25 @@
 1. a. Write a program to extract data from text files using Python regular expression?
-b. Write a program to Perform Preprocessing (Tokenization, Stop Word Removal and Stemming) of Text.
+<br /> b. Write a program to Perform Preprocessing (Tokenization, Stop Word Removal and Stemming) of Text.
 2. a. Write a Python program to create a list with n values. The list of integers with exactly two occurrences of nineteen and at least three occurrences of five. Return True Otherwise False.
 Sample: Input: [19, 19, 15, 5, 3, 5, 5, 2] Output: True
 Input: [19, 15, 15, 5, 3, 3, 5, 2] Output: False
 Input: [19, 19, 5, 5, 5, 5, 5] Output: True
-b. Write a program to implement N-Gram Model from the given text, excluding the stop words
+<br /> b. Write a program to implement N-Gram Model from the given text, excluding the stop words
 3. a. Write a program to plot the graph with the most frequently distributed word in the given text.
-b. Write a Python program to split a string of words separated by commas and spaces into two lists, words and separators.
+<br /> b. Write a Python program to split a string of words separated by commas and spaces into two lists, words and separators.
 Input: The colors in my studyroom are blue, green, and yellow.
 Output:
 [['The', 'colors', 'in', 'my', 'studyroom', 'are', 'blue', 'green', 'and', 'yellow.'], [' ', 
 ' ', ' ', ' ', ' ', ' ', ', ', ', ', ' ']]
 4. a. Write a python program extract all the numbers in the file and compute the sum of the numbers using regular expression.
-b. Write a program to extract specific patterns from a given sample sentence using regular expression-based chunking.
+<br /> b. Write a program to extract specific patterns from a given sample sentence using regular expression-based chunking.
 5. a. Write a Python program to create a list with n values. The list of integers with exactly two occurrences of nineteen and at least three occurrences of five. Return True Otherwise False.
 Sample: Input: [19, 19, 15, 5, 3, 5, 5, 2] Output: True
 Input: [19, 15, 15, 5, 3, 3, 5, 2] Output: False
 Input: [19, 19, 5, 5, 5, 5, 5] Output: True
-b. Write a program to demonstrate how to use the nltk library to process text and generate a part-of-speech tag for each word and draw the parsed result.
+<br /> b. Write a program to demonstrate how to use the nltk library to process text and generate a part-of-speech tag for each word and draw the parsed result.
 6. a. Write a program to extract all twitter handles from the following text. Twitter handle is the text that appears after https://twitter.com/ and is a single word. Also it contains only alphanumeric characters i.e. A-Z a-z , o to 9 and underscore _
-b.Write a program to extract the personal Information from the given text
+<br /> b.Write a program to extract the personal Information from the given text
 text=''' Born Elon Reeve Musk
 June 28, 1971 (age 50)
 Pretoria, Transvaal, South Africa Citizenship
@@ -34,7 +34,7 @@ Co-founder of Neuralink, OpenAI, and Zip2
 Spouse(s) Justine Wilson (m. 2000; div. 2008)
 Talulah Riley (m. 2010; div. 2012)
 (m. 2013; div. 2016) ''' 
-b. Write a Program to plot the graph with the most frequently distributed word without stop words and punctuation in the given text.
+<br /> b. Write a Program to plot the graph with the most frequently distributed word without stop words and punctuation in the given text.
 7. Write a program to demonstrate Morphological Analysis and Perform Lemmatization based on the Parts of Speech on the given text.
 8. Write a program to analyze the different types of Stemmers and Lemmatizer
 9. Create a collection of 3 documents. Write a program to find the frequency of bi-grams in this collection. Find the number of bi-grams that occur and display the top 5 most common.
